@@ -8,5 +8,6 @@ public class App {
 
     public static void main(String[] args) {
         System.out.println("Hello Maven CI");
+        System.out.println("Version 2");
     }
 }
